@@ -1,5 +1,12 @@
 [
   {
+    "projectName": "ObfuscatedLibrary8273",
+    "timestamp": "2025-11-18T22:36:40.753Z",
+    "originalSize": 124,
+    "obfuscatedSize": 7469,
+    "sizeChange": "5923.4"
+  },
+  {
     "projectName": "EncryptedLibrary3231",
     "timestamp": "2025-11-18T21:47:25.928Z",
     "originalSize": 569,
